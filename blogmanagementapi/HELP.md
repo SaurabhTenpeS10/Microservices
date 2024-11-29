@@ -143,7 +143,7 @@ This project is licensed under the MIT License.
 
 ---
 
-This `HELP.md` provides all the essential details to set up, use, and contribute to the Blog Management API project. Let me know if you want to add more sections or customize any details!
+This `HELP.md` provides all the essential details to set up, use, and contribute to the Blog Management API project.
 
 ### Reference Documentation
 For further reference, please consider the following sections:
