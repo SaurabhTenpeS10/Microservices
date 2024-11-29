@@ -148,7 +148,6 @@ This project is licensed under the MIT License.
 
 --- 
 
-This file gives a clear, organized structure for users and contributors to understand and work with your project. Let me know if you need further customization!
 ### Reference Documentation
 For further reference, please consider the following sections:
 
